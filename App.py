@@ -7,6 +7,7 @@ import tensorflow as tf
 import pandas as pd
 from main import recommend_courses, sidebar, tfidf_matrix, df
 from sklearn.feature_extraction.text import TfidfVectorizer
+import nltk
 
 nltk.data.path.append('./nltk_data')
 
