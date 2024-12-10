@@ -15,8 +15,8 @@ from main import sidebar
 
 # from main import sidebar 
        
-final_df = pd.read_csv('dataset/final_df_cleaned.csv')
-final_rating_df = pd.read_csv('dataset/final_rating_df2.csv')
+final_df = pd.read_csv('dataset/final_df.csv')
+final_rating_df = pd.read_csv('dataset/final_rating_df.csv')
 
 
 class RecommenderNet(tf.keras.Model):
