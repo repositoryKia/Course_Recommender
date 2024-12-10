@@ -1,0 +1,123 @@
+name,course_url,course_id,rating
+AI For Everyone,https://www.coursera.org/learn/ai-for-everyone,5,4.84
+AI for Medical Diagnosis,https://www.coursera.org/learn/ai-for-medical-diagnosis,63,4.65
+AWS Fundamentals: Addressing Security Risk,https://www.coursera.org/learn/aws-fundamentals-addressing-security-risk,104,4.13
+AWS Fundamentals: Going Cloud-Native,https://www.coursera.org/learn/aws-fundamentals-going-cloud-native,47,4.6
+Agile with Atlassian Jira,https://www.coursera.org/learn/agile-atlassian-jira,16,4.61
+Applied Data Science Capstone,https://www.coursera.org/learn/applied-data-science-capstone,102,4.54
+Applied Machine Learning in Python,https://www.coursera.org/learn/python-machine-learning,109,4.46
+Basic Statistics,https://www.coursera.org/learn/basic-statistics,92,4.63
+Bayesian Statistics: From Concept to Data Analysis,https://www.coursera.org/learn/bayesian-statistics,84,4.54
+Blockchain Basics,https://www.coursera.org/learn/blockchain-basics,97,4.48
+Build a Modern Computer from First Principles: From Nand to Tetris (Project-Centered Course),https://www.coursera.org/learn/build-a-computer,45,4.84
+C for Everyone: Programming Fundamentals,https://www.coursera.org/learn/c-for-everyone,107,4.49
+Code Yourself! An Introduction to Programming,https://www.coursera.org/learn/intro-programming,98,4.73
+Construction Project Management,https://www.coursera.org/learn/construction-project-management,48,4.73
+Convolutional Neural Networks,https://www.coursera.org/learn/convolutional-neural-networks,29,3.83
+Convolutional Neural Networks in TensorFlow,https://www.coursera.org/learn/convolutional-neural-networks-tensorflow,28,4.49
+Crash Course on Python,https://www.coursera.org/learn/python-crash-course,6,4.66
+Cryptography I,https://www.coursera.org/learn/crypto,35,4.81
+Data Analysis with Python,https://www.coursera.org/learn/data-analysis-with-python,46,4.43
+Data Science Math Skills,https://www.coursera.org/learn/datasciencemathskills,24,4.41
+Data Science Methodology,https://www.coursera.org/learn/data-science-methodology,32,4.38
+Data Visualization with Python,https://www.coursera.org/learn/python-for-data-visualization,70,4.21
+Data-driven Decision Making,https://www.coursera.org/learn/decision-making,71,4.43
+Database Management Essentials,https://www.coursera.org/learn/database-management,119,4.39
+Databases and SQL for Data Science,https://www.coursera.org/learn/sql-data-science,41,4.49
+Digital Transformation,https://www.coursera.org/learn/bcg-uva-darden-digital-transformation,52,4.77
+Elastic Google Cloud Infrastructure: Scaling and Automation,https://www.coursera.org/learn/gcp-infrastructure-scaling-automation,85,4.65
+Engineering Project Management: Initiating and Planning,https://www.coursera.org/learn/initiating-planning,75,4.76
+Essential Google Cloud Infrastructure: Core Services,https://www.coursera.org/learn/gcp-infrastructure-core-services,64,4.65
+Essential Google Cloud Infrastructure: Foundation,https://www.coursera.org/learn/gcp-infrastructure-foundation,50,4.69
+Excel Skills for Business: Advanced,https://www.coursera.org/learn/excel-advanced,105,4.71
+Excel Skills for Business: Essentials,https://www.coursera.org/learn/excel-essentials,10,4.86
+Excel Skills for Business: Intermediate I,https://www.coursera.org/learn/excel-intermediate-1,44,4.91
+Excel Skills for Business: Intermediate II,https://www.coursera.org/learn/excel-intermediate-2,89,4.74
+Front-End Web Development with React,https://www.coursera.org/learn/front-end-react,115,4.59
+Front-End Web UI Frameworks and Tools: Bootstrap 4,https://www.coursera.org/learn/bootstrap-4,62,4.82
+Functional Programming Principles in Scala,https://www.coursera.org/learn/progfun1,93,4.65
+Gamification,https://www.coursera.org/learn/gamification,37,4.65
+Getting Started with AWS Machine Learning,https://www.coursera.org/learn/aws-machine-learning,73,4.37
+Getting Started with Google Kubernetes Engine,https://www.coursera.org/learn/google-kubernetes-engine,113,3.98
+Getting Started with Google Sheets,https://www.coursera.org/learn/getting-started-with-google-sheets,69,4.48
+Google Cloud Platform Big Data and Machine Learning Fundamentals,https://www.coursera.org/learn/gcp-big-data-ml-fundamentals,40,4.48
+Google Cloud Platform Fundamentals: Core Infrastructure,https://www.coursera.org/learn/gcp-fundamentals,11,4.64
+How Google does Machine Learning,https://www.coursera.org/learn/google-machine-learning,99,4.44
+IT Security: Defense against the digital dark arts,https://www.coursera.org/learn/it-security,36,4.75
+Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization,15,1.0
+Industrial IoT on Google Cloud Platform,https://www.coursera.org/learn/iiot-google-cloud-platform,118,4.6
+Introduction to Artificial Intelligence (AI),https://www.coursera.org/learn/introduction-to-ai,51,4.69
+Introduction to Big Data,https://www.coursera.org/learn/big-data-introduction,111,4.47
+Introduction to Blockchain Technologies,https://www.coursera.org/learn/introduction-blockchain-technologies,94,4.67
+Introduction to C# Programming and Unity,https://www.coursera.org/learn/introduction-programming-unity,110,4.72
+Introduction to CSS3,https://www.coursera.org/learn/introcss,101,4.76
+Introduction to Cybersecurity Tools & Cyber Attacks,https://www.coursera.org/learn/introduction-cybersecurity-cyber-attacks,26,4.11
+Introduction to Data Analysis Using Excel,https://www.coursera.org/learn/excel-data-analysis,66,4.69
+Introduction to Data Science in Python,https://www.coursera.org/learn/python-data-analysis,21,4.15
+Introduction to Engineering Mechanics,https://www.coursera.org/learn/engineering-mechanics-statics,86,4.73
+Introduction to Game Development,https://www.coursera.org/learn/game-development,112,4.69
+Introduction to Git and GitHub,https://www.coursera.org/learn/introduction-git-github,78,4.71
+Introduction to HTML5,https://www.coursera.org/learn/html,43,3.96
+Introduction to Machine Learning,https://www.coursera.org/learn/machine-learning-duke,114,4.64
+Introduction to Probability and Data with R,https://www.coursera.org/learn/probability-intro,58,4.62
+Introduction to Programming with MATLAB,https://www.coursera.org/learn/matlab,61,4.85
+Introduction to Search Engine Optimization,https://www.coursera.org/learn/search-engine-optimization,53,4.57
+Introduction to Software Product Management,https://www.coursera.org/learn/introduction-to-software-product-management,88,4.47
+Introduction to Spreadsheets and Models,https://www.coursera.org/learn/wharton-introduction-spreadsheets-models,81,3.39
+Introduction to Structured Query Language (SQL),https://www.coursera.org/learn/intro-sql,108,4.75
+Introduction to Systematic Review and Meta-Analysis,https://www.coursera.org/learn/systematic-review,31,4.7
+Introduction to User Experience Design,https://www.coursera.org/learn/user-experience-design,17,4.41
+Introduction to User Experience Principles and Processes,https://www.coursera.org/learn/introtoux-principles-and-processes,67,4.66
+Introduction to Web Development,https://www.coursera.org/learn/web-development,74,4.59
+Java Programming: Solving Problems with Software,https://www.coursera.org/learn/java-programming,65,4.39
+Kotlin for Java Developers,https://www.coursera.org/learn/kotlin-for-java-developers,76,4.52
+Learn to Program: The Fundamentals,https://www.coursera.org/learn/learn-to-program,56,4.74
+Machine Learning,https://www.coursera.org/learn/machine-learning,1,4.69
+Machine Learning Foundations: A Case Study Approach,https://www.coursera.org/learn/ml-foundations,116,4.42
+Machine Learning for All,https://www.coursera.org/learn/uol-machine-learning-for-all,59,4.68
+Machine Learning for Business Professionals,https://www.coursera.org/learn/machine-learning-business-professionals,82,4.5
+Machine Learning with Python,https://www.coursera.org/learn/machine-learning-with-python,49,4.42
+Mastering Data Analysis in Excel,https://www.coursera.org/learn/analytics-excel,91,3.58
+Mathematical Thinking in Computer Science,https://www.coursera.org/learn/what-is-a-proof,95,4.12
+Mathematics for Machine Learning: Linear Algebra,https://www.coursera.org/learn/linear-algebra-machine-learning,20,4.55
+Mathematics for Machine Learning: Multivariate Calculus,https://www.coursera.org/learn/multivariate-calculus-machine-learning,77,4.62
+Mathematics for Machine Learning: PCA,https://www.coursera.org/learn/pca-machine-learning,121,3.34
+Modernizing Data Lakes and Data Warehouses with GCP,https://www.coursera.org/learn/data-lakes-data-warehouses-gcp,79,4.5
+Natural Language Processing in TensorFlow,https://www.coursera.org/learn/natural-language-processing-tensorflow,42,4.25
+Natural Language Processing with Classification and Vector Spaces,https://www.coursera.org/learn/classification-vector-spaces-in-nlp,19,4.36
+Neural Networks and Deep Learning,https://www.coursera.org/learn/neural-networks-deep-learning,7,4.7
+Object Oriented Programming in Java,https://www.coursera.org/learn/object-oriented-java,122,4.63
+Object-Oriented Data Structures in C++,https://www.coursera.org/learn/cs-fundamentals-1,39,4.68
+Object-Oriented Design,https://www.coursera.org/learn/object-oriented-design,100,4.34
+Operating Systems and You: Becoming a Power User,https://www.coursera.org/learn/os-power-user,13,4.46
+Operations Analytics,https://www.coursera.org/learn/wharton-operations-analytics,83,4.69
+Process Mining: Data science in Action,https://www.coursera.org/learn/process-mining,68,4.68
+Programming Fundamentals,https://www.coursera.org/learn/programming-fundamentals,87,4.62
+Programming for Everybody (Getting Started with Python),https://www.coursera.org/learn/python,3,4.57
+Python Basics,https://www.coursera.org/learn/python-basics,34,4.78
+Python Data Structures,https://www.coursera.org/learn/python-data,12,4.8
+Python Programming: A Concise Introduction,https://www.coursera.org/learn/python-programming-introduction,96,4.6
+Python and Statistics for Financial Analysis,https://www.coursera.org/learn/python-statistics-financial-analysis,80,4.12
+Python for Data Science and AI,https://www.coursera.org/learn/python-for-applied-data-science-ai,18,4.28
+R Programming,https://www.coursera.org/learn/r-programming,54,4.11
+Reliable Google Cloud Infrastructure: Design and Process,https://www.coursera.org/learn/cloud-infrastructure-design-process,106,4.65
+SQL for Data Science,https://www.coursera.org/learn/sql-for-data-science,22,4.47
+Search Engine Optimization Fundamentals,https://www.coursera.org/learn/seo-fundamentals,72,4.7
+Six Sigma Principles,https://www.coursera.org/learn/six-sigma-principles,90,4.28
+Software Processes and Agile Practices,https://www.coursera.org/learn/software-processes-and-agile-practices,103,4.68
+Strategic Management,https://www.coursera.org/learn/strategic-management,117,4.67
+Structuring Machine Learning Projects,https://www.coursera.org/learn/machine-learning-projects,25,4.62
+Supply Chain Logistics,https://www.coursera.org/learn/supply-chain-logistics,55,4.68
+System Administration and IT Infrastructure Services,https://www.coursera.org/learn/system-administration-it-infrastructure-services,23,4.64
+Technical Support Fundamentals,https://www.coursera.org/learn/technical-support-fundamentals,2,4.7
+The Bits and Bytes of Computer Networking,https://www.coursera.org/learn/computer-networking,4,4.59
+The Data Scientistâ€™s Toolbox,https://www.coursera.org/learn/data-scientists-tools,27,4.34
+Tools for Data Science,https://www.coursera.org/learn/open-source-tools-for-data-science,14,4.13
+Tricky American English Pronunciation,https://www.coursera.org/learn/tricky-american-english-pronunciation,120,4.81
+Understanding Clinical Research: Behind the Statistics,https://www.coursera.org/learn/clinical-research,57,4.78
+Using Databases with Python,https://www.coursera.org/learn/python-databases,60,4.68
+Using Python to Access Web Data,https://www.coursera.org/learn/python-network-data,30,4.67
+Using Python to Interact with the Operating System,https://www.coursera.org/learn/python-operating-system,38,4.53
+What is Data Science?,https://www.coursera.org/learn/what-is-datascience,8,4.55
+Wind Energy,https://www.coursera.org/learn/wind-energy,33,4.63
+Writing in the Sciences,https://www.coursera.org/learn/sciwrite,9,4.84

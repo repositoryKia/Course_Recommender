@@ -1,0 +1,13 @@
+streamlit
+scikit-learn
+keras
+tensorflow
+resampy
+nltk
+numpy
+textblob
+spacy
+pandas
+joblib
+vaderSentiment
+streamlit_pills
