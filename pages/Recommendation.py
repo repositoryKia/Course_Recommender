@@ -137,6 +137,8 @@ tf.keras.backend.clear_session()
 @st.cache_resource(ttl=24*3600)
 def load_model_cached():
     model = RecommenderNet(num_users=num_users, num_courses=num_courses, embedding_size=embedding_size)
+    model.build(input_shape=(None, 2))
+
     model.load_weights('model/recommender_model.keras')  
     return model
 
