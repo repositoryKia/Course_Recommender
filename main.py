@@ -8,7 +8,7 @@ from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
 # Load dataset
-df = pd.read_csv(r'D:\Bismillah SKRIPSIIIII\REVISI\dataset\xxx.csv')
+df = pd.read_csv(r'D:\Bismillah SKRIPSIIIII\REVISI\dataset\dataset.csv')
 
 # Clean text function
 stop_words = set(stopwords.words('english'))
@@ -27,7 +27,6 @@ def clean_text(text):
     return ""
 
 
-# Fit TF-IDF Vectorizer
 tfidf_vectorizer = TfidfVectorizer()
 tfidf_matrix = tfidf_vectorizer.fit_transform(df['Sequence'])
 
